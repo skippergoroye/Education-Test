@@ -1,4 +1,3 @@
-// src/educationSlice.ts
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { EducationState } from '@/types';
 
